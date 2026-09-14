@@ -32,7 +32,7 @@ A fun, fast, and addictive **Emoji Memory Matching Game** built with pure HTML5,
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/memory-card-game.git
+   git clone https://github.com/vardhan-kumar2006/memory-card-game.git
    cd memory-card-game
    ```
 2. Double-click `index.html` to open it in Chrome, Edge, or Firefox!

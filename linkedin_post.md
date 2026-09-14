@@ -20,8 +20,8 @@ I just built and deployed **FlipMatch** — a fast, addictive, and responsive 3D
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
 - **Concepts**: Fisher-Yates Shuffle Algorithm, Web Audio API, Canvas Animation, State Management, LocalStorage Persistence.
 
-💻 **GitHub Repo**: [Insert your GitHub repo link here]
-🌐 **Live Demo**: [Insert your GitHub Pages live link here]
+💻 **GitHub Repo**: https://github.com/vardhan-kumar2006/memory-card-game
+🌐 **Live Demo**: https://vardhan-kumar2006.github.io/memory-card-game/
 
 Try matching all the pairs and let me know in the comments: **What was your lowest move count?** 👇
 
